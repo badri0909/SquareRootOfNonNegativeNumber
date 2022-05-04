@@ -1,0 +1,3 @@
+D:\bridge labs\SquareRootOfNonNegativeNumber\SquareRootOfNonNegativeNumber\obj\Debug\SquareRootOfNonNegativeNumber.csproj.AssemblyReference.cache
+D:\bridge labs\SquareRootOfNonNegativeNumber\SquareRootOfNonNegativeNumber\obj\Debug\SquareRootOfNonNegativeNumber.csproj.SuggestedBindingRedirects.cache
+D:\bridge labs\SquareRootOfNonNegativeNumber\SquareRootOfNonNegativeNumber\obj\Debug\SquareRootOfNonNegativeNumber.csproj.CoreCompileInputs.cache
